@@ -11,7 +11,7 @@
 - [チェックボタンへのラベル付与]
 
 ### レイアウト関連
-- [FlexBoxのスタイル定義](/html_css/fundamental/FlexibleBox/question.md)
+- [FlexBoxのスタイル定義](html_css/fundamental/FlexibleBox/question.md)
 - [float指定されたスタイル](./html_css/fundamental/FloatStyling/question.md)
 - [inline-block]
 - [絶対配置と相対配置]
