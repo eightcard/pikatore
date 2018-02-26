@@ -25,7 +25,7 @@
 ### 特殊効果
 
 ### HTML5
-- [HTML4との相違]
+- [HTML4との相違](html_css/fundamental/Version/question.md)
 - [sectionタグ](html_css/fundamental/AboutSection/question.md)
 - [対になって動作する要素]
 - [メディア要素]
