@@ -3,7 +3,6 @@
 ### 基本
 - [ブロック要素とインライン要素](html_css/fundamental/BrockOrInline/question.md)
 - [クラスに対するスタイル定義](html_css/fundamental/StyleDefinitionOfClass/question.md)
-- [ブラウザごとの対応](html_css/fundamental/BrowserOptimization/question.md)
 - [部分的なスタイル適用](html_css/fundamental/PartialStyling/question.md)
 - [疑似要素によるスタイル定義](html_css/fundamental/PseudoElement/question.md)
 - [サーバーへの入力項目の送信](html_css/fundamental/SendToServer/question.md)
