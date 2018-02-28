@@ -8,3 +8,10 @@ function createPartialArray(A) {
   return A.filter((current) => {if(current < 10) return true});
 }
 ```
+
+以下のように書くと、よりシンプルになる。
+```js
+function createPatialArray(A) {
+  return A.filter(current => current < 10);
+}
+```
