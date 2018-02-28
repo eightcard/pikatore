@@ -11,16 +11,21 @@
 
 1.
 ```javascript
-let targetElement = document.getElementById('primal_child');
-targetElement.innerHTML = '<div id="alternative_child"></div>';
+let child = document.getElementById('primal_child');
+const alternative = document.createElement("div");
+alternative.id = 'alternative_child';
+child = alternative;
 ```
 
 2.
 ```javascript
-let parent = document.getElementById('parent');
+const parent = document.getElementById('parent');
 let child = document.getElementById('primal_child');
+const alternative = document.createElement("div");
+alternative.id = 'alternative_child';
 parent.removeChild(child);
-parent.innerHTML = '<div id="alternative_child"></div>'
+parent.appendChild(alternative);
 ```
 
-3. 1, 2のどちらも意図した挙動を示す
+3.
+1, 2のどちらも意図した挙動を示す
