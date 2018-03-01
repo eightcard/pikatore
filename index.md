@@ -22,6 +22,7 @@
 - [mixinの適用]
 
 ### 特殊効果
+- [transitionの指定](html_css/fundamental/TransitionSetting/question.md)
 
 ### HTML5
 - [HTML4との相違](html_css/fundamental/Version/question.md)
