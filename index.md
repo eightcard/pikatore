@@ -62,6 +62,7 @@
 ### Vue
 
 ### React
+- [初期ロード時のデータ挿入](javascript/React/InitialLoad/question.mg)
 
 ### Angular
 
