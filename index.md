@@ -10,30 +10,30 @@
 - [チェックボタンへのラベル付与]
 
 ### レイアウト関連
-- [FlexBoxのスタイル定義](html_css/fundamental/FlexibleBox/question.md)
-- [float指定されたスタイル](html_css/fundamental/FloatStyling/question.md)
+- [FlexBoxのスタイル定義](html_css/Layout/FlexibleBox/question.md)
+- [float指定されたスタイル](html_css/Layout/FloatStyling/question.md)
 - [inline-block]
 - [絶対配置と相対配置]
 - [レスポンシブ対応]
 - [テーブルレイアウト]
 
 ### SCSS
-- [sassによるスタイル定義](html_css/fundamental/SCSSWriting/question.md)
+- [sassによるスタイル定義](html_css/SCSS/SCSSWriting/question.md)
 - [mixinの適用]
 
 ### 特殊効果
-- [transitionの指定](html_css/fundamental/TransitionSetting/question.md)
+- [transitionの指定](html_css/Effect/TransitionSetting/question.md)
 
 ### HTML5
-- [HTML4との相違](html_css/fundamental/Version/question.md)
-- [sectionタグ](html_css/fundamental/AboutSection/question.md)
+- [HTML4との相違](html_css/HTML5/Version/question.md)
+- [sectionタグ](html_css/HTML5/AboutSection/question.md)
 - [対になって動作する要素]
 - [メディア要素]
 
 ### ヘッダ情報
 - [ページのメタ情報]
 - [スクリプト未動作の環境での対応]
-- [外部のCSSファイルの読み込み](html_css/fundamental/ImportStyleSheets/question.md)
+- [外部のCSSファイルの読み込み](html_css/HeaderInfomation/ImportStyleSheets/question.md)
 
 ## JavaScript編
 ### 基本
