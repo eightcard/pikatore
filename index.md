@@ -33,7 +33,7 @@
 ### ヘッダ情報
 - [ページのメタ情報]
 - [スクリプト未動作の環境での対応]
-- [外部のCSSファイルの読み込み](html_css/HeaderInfomation/ImportStyleSheets/question.md)
+- [外部のCSSファイルの読み込み](html_css/HeaderInformation/ImportStyleSheets/question.md)
 
 ## JavaScript編
 ### 基本
