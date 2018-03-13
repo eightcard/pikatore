@@ -1,7 +1,7 @@
 # 目次
 ## html_css編
 ### 基本
-- [ブロック要素とインライン要素](html_css/fundamental/BrockOrInline/question.md)
+- [ブロック要素とインライン要素](html_css/fundamental/BlockOrInline/question.md)
 - [クラスに対するスタイル定義](html_css/fundamental/StyleDefinitionOfClass/question.md)
 - [部分的なスタイル適用](html_css/fundamental/PartialStyling/question.md)
 - [疑似要素によるスタイル定義](html_css/fundamental/PseudoElement/question.md)
