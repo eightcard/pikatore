@@ -4,13 +4,13 @@
 - [ブロック要素とインライン要素](html_css/fundamental/BlockOrInline/question.md)
 - [クラスに対するスタイル定義](html_css/fundamental/StyleDefinitionOfClass/question.md)
 - [部分的なスタイル適用](html_css/fundamental/PartialStyling/question.md)
-- [疑似要素によるスタイル定義](html_css/fundamental/PseudoElement/question.md)
+- [疑似要素によるスタイル定義](html_css/fundamental/PseudoClass/question.md)
 - [サーバーへの入力項目の送信](html_css/fundamental/SendToServer/question.md)
 - [禁則処理]
 - [チェックボタンへのラベル付与]
 
 ### レイアウト関連
-- [FlexBoxのスタイル定義](html_css/Layout/FlexibleBox/question.md)
+- [FlexBoxのスタイル定義](html_css/Layout/FlexBox/question.md)
 - [float指定されたスタイル](html_css/Layout/FloatStyling/question.md)
 - [inline-block]
 - [絶対配置と相対配置]
@@ -43,8 +43,8 @@
 - [比較演算子](javascript/fundamental/ComparativeOperator/question.md)
 - [プリミティブな文字列](javascript/fundamental/PrimitiveCharacter/question.md)
 - [クラスベースとプロトタイプベース](javascript/fundamental/BaseDifference/question.md)
-- [配列その1](javascript/fundamental/Array1/question.md)
-- [配列その2](javascript/fundamental/Array2/question.md)
+- [配列その1](javascript/fundamental/Array/question.md)
+- [配列その2](javascript/fundamental/Array1/question.md)
 - [配列その3](javascript/fundamental/ArrayControl1/question.md)
 - [配列その4](javascript/fundamental/ArrayControl2/question.md)
 
@@ -63,7 +63,7 @@
 - [繰り返し構造の描画](javascript/Vue/LoopRendering/question.md)
 
 ### React
-- [初期ロード時のデータ挿入](javascript/React/InitialLoad/question.mg)
+- [初期ロード時のデータ挿入](javascript/React/InitialLoad/question.md)
 
 ### Angular
 
