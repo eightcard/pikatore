@@ -13,7 +13,6 @@
 <img src="../../../images/prohibition.png">
 
 この現象を引き起こす原因となったスタイル指定を次の中から選びなさい。  
-なお、本問ではIE(Internet Exploler)での動作は考慮しないものとする。
 
 1.
 ```
