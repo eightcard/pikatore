@@ -42,7 +42,6 @@
 - [プリミティブ型](javascript/fundamental/PrimitiveTypes/question.md)
 - [比較演算子](javascript/fundamental/ComparativeOperator/question.md)
 - [プリミティブな文字列](javascript/fundamental/PrimitiveCharacter/question.md)
-- [クラスベースとプロトタイプベース](javascript/fundamental/BaseDifference/question.md)
 - [配列その1](javascript/fundamental/Array/question.md)
 - [配列その2](javascript/fundamental/Array1/question.md)
 - [配列その3](javascript/fundamental/ArrayControl1/question.md)
