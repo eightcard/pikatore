@@ -6,7 +6,7 @@
 - [部分的なスタイル適用](html_css/fundamental/PartialStyling/question.md)
 - [疑似要素によるスタイル定義](html_css/fundamental/PseudoClass/question.md)
 - [サーバーへの入力項目の送信](html_css/fundamental/SendToServer/question.md)
-- [禁則処理]
+- [禁則処理](html_css/fundamental/ProhibitionProcessing/question.md)
 - [チェックボタンへのラベル付与]
 
 ### レイアウト関連
