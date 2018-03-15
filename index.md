@@ -52,8 +52,7 @@
 - [子要素の取り出し](javascript/DomControl/ChildNodes/question.md)
 - [発火イベントの振る舞い](javascript/DomControl/EventBehavior/question.md)
 - [関数の実行タイミング](javascript/DomControl/FunctionExecutionTiming/question.md)
-- [RangeとSelection]
-- [フォームの入力内容のバリデーション]
+- [ネスト構造を持つチェックボックス]
 
 ### 非同期処理
 - [非同期処理における処理の実行順](javascript/AsynchronousProcessing/ProcessingOrder/question.md)
