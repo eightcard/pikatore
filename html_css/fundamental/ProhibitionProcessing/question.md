@@ -19,17 +19,17 @@
 white-space: nowrap;
 ```
 
-3.
+2.
 ```
 white-space: pre;
 ```
 
-2.
+3.
 ```
 word-break: keep-all;
 ```
 
-3.
+4.
 ```
 word-break: break-all;
 ```
